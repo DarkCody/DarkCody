@@ -6,8 +6,7 @@
 
 # 💻Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
-![TLEOJ](https://img.shields.io/badge/TLEOJ-1344-green?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd%2BUAAABaklEQVR4Ae3UA2wkYQCG4Y3vorNt27bNGmFtm0Edo7Zt27bdBrXdzt](https://img.shields.io/badge/TLEOJ-1344-green
-)
+[![DMOJ Badge](http://mosesxu.ca/judge-badge/dmoj/plasmatic)](https://www.dmoj.ca/user/Plasmatic)
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=DarkCody&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
