@@ -6,7 +6,8 @@
 
 # 💻Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
-<img src ="http://mosesxu.ca/judge-badge/codeforces/quangdepzai"/>
+![Codeforces](https://img.shields.io/badge/Codeforces-538-red?style=plastic&logo=Codeforces&color=red)
+
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=DarkCody&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
