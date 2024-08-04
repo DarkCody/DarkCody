@@ -11,7 +11,7 @@
 
 
 
-<img src"https://img.shields.io/badge/Tmath-1932-orange?style=plastic&logo=coder"/>
+<img src ="https://img.shields.io/badge/Tmath-1932-orange?style=plastic&logo=coder"/>
 
 
 # 📊GitHub Stats :
