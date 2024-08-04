@@ -6,7 +6,7 @@
 
 # 💻Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
-![Codeforces](https://mosesxu.ca/judge-badge/codeforces/tourist)
+<img src="https://shields.io/badge/TLEOJ-2109-orange?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAABaklEQVR4Ae3UA2wkYQCG4Y3vorNt27bNGmFtm0Edo7Zt27bdBrXdzt/9atvtJu+O5xnTPgh/XdG2wC1wfm2BPVkSKd2ZYtR00ZfrYb3cn/8q6ZHhuJkVds4bbEsTPdWXI0lmy3Pbng8j2K//GXm/GUIXc4Z6vVmigWgY6M2WqB6eR4oEf9rc/vA76c0ngpwvXru3ZPewO42T4DJS6QyWmL4cQJRoluVncIYRD58TBByXc8lABPCmb6/hx6B2CgH0v36HjC3w8PHjCwbpv3sYdiZ8IYgkXDA9bF3v8NCpmkIAnY+fIcj90g0j1/NXJbD+osH2mEfjwEsG+WQiuBT3ECDnMIgA0rRy7QGisSDODuiSneFY8KBmIkG4X8DGtth7+GkSKB1vvlspnCA8qWwM6r8VPvFLy30WlMGTivWXDUTbVaLGtrAvzcRaIh/qtkQ9JFTM4Rc06ehfA5hiWNfkQivW9sd7C9wCt8B+sHbXbH0aQGcAAAAASUVORK5CYII=&style=plastic" />
 
 
 # 📊GitHub Stats :
