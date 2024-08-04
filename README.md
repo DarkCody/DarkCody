@@ -6,7 +6,7 @@
 
 # 💻Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
-![Codeforces](https://img.shields.io/badge/Codeforces-538-red?style=plastic&logo=Codeforces&color=red)
+![Codeforces](https://mosesxu.ca/judge-badge/codeforces/quang1234)
 
 
 # 📊GitHub Stats :
