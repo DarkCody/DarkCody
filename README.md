@@ -1,6 +1,5 @@
 ## 🌐 Hi, My Name Is Tran Dang Quang 
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/1021434159157231668) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100090831426844)
 
 # 💻Tech Stack
